@@ -64,12 +64,12 @@ Eine dedizierte Instanz für eine kleine Gruppe von Nutzern, die vollständig vo
 
 Der Nutzer bzw. der Ersteller der privaten Instanz kann ein Template auswählen, das den aktuellen Zweck der Gruppe widerspiegelt.
 
-- Paare/Partner
+- Paare/
 - Familie
 - Teams/Projekte
 - Freunde/Communities
 
-Die Templates legen fest, welche Funktionsbereiche der Instanz zur Verfügung stehen – abhängig vom jeweiligen Kontext.
+Die Templates legen fest, welche Funktionsbereiche der Instanz zur Verfügung stehen abhängig vom jeweiligen Kontext.
 
 ## **Geplante Kernfunktionen**:
 
@@ -87,11 +87,11 @@ Geteilte Ressourcen/Links
 
 - Intimacy Journal (nur für das Paar-Template)
 
-Hobby-Ecke (für Paare/Partner und Freunde)
+- Hobby-Ecke (für Paare/Partner und Freunde)
 
-Relationship Retrospective: Lieblingsdates und besondere Momente (Paare/Partner)
+- Relationship Retrospective: Lieblingsdates und besondere Momente (Paare/Partner)
 
-„Keepsakes”: Lieblingsorte, gemeinsame Erlebnisse oder Erinnerungen (Paare/Partner, Freunde & Communities, Familie)
+- „Keepsakes”: Lieblingsorte, gemeinsame Erlebnisse oder Erinnerungen (Paare/Partner, Freunde & Communities, Familie)
 
 ## **Tech Stack**:
 
