@@ -54,7 +54,7 @@ Templates will decide the features set that will be available to the instance, d
 
 # Kinharbour 
 
-Kinharbour ist ein persönliches Projekt, das die Idee eines privaten Social Hubs für kleine Gruppen als dedizierte, private Instanz erkundet. Mein Ziel ist es, einen Raum zu schaffen, der das laute und überladene Social Media durch eine ruhige, private Umgebung ersetzt. Hier können Nutzer Updates teilen, Events planen und die kleinen Dinge im Alltag festhalten. Gleichzeitig bleibt die Datenhoheit beim Nutzer und ich kann mithilfe des Projekts technische Konzepte besser verstehen und meine Fachkenntnisse Schritt für Schritt erweitern.
+Kinharbour ist ein persönliches Projekt, das die Idee eines privaten Social Hubs für kleine Gruppen als dedizierte, private Instanz verfolgt. Mein Ziel ist es, einen Raum zu schaffen, der das laute und überladene Social Media durch eine ruhige, private Umgebung ersetzt. Hier können Nutzer Updates teilen, Events planen und die kleinen Dinge im Alltag festhalten. Gleichzeitig bleibt die Datenhoheit beim Nutzer und ich kann mithilfe des Projekts technische Konzepte besser verstehen und meine Fachkenntnisse Schritt für Schritt erweitern.
 
 ## **Geplantes Konzept: Single-Tenant as a Service (SaaS)**.
 
